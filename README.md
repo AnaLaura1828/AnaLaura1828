@@ -38,6 +38,7 @@
             <span><strong>ESLint</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
             </td>
+          <br>
           <td width="80px" align="center">
             <span><strong>Node.JS</strong></span><br>
             <img height="32px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
