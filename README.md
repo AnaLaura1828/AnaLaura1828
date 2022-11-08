@@ -1,5 +1,5 @@
 <div align="center">
-  <p align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, sou a Ana Laura e estudo desenvolvimento web na Trybe </p>
+  <p align="center">Olá <img src="https://i.pinimg.com/originals/67/df/54/67df540f1a7bdf7371e2336d68efb726.gif" width="30px" height="30px">, sou a Ana Laura e estudo desenvolvimento web na Trybe </p>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLaura1828&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLaura1828&layout=compact&langs_count=7&theme=dark"/>
