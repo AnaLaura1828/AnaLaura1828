@@ -1,10 +1,13 @@
 <div>
-  <p align="center">Olá, sou a Ana Laura  &nbsp <img src="https://64.media.tumblr.com/ddb8b1d149dd57d59372aae182de7f30/tumblr_n7pgicamUk1qagc6xo1_500.gifv" width="40px" height="50px"><p/>
+  <h3 align="center">Olá, sou a Ana Laura  &nbsp <img src="https://64.media.tumblr.com/ddb8b1d149dd57d59372aae182de7f30/tumblr_n7pgicamUk1qagc6xo1_500.gifv" width="40px" height="50px">
+   <h3/>
   <br>
+    <div>
   <p>:computer: :green_heart: Estudo desenvolvimento web full stack na Trybe.</p>
   <p> :heart: :neckbeard: Estou apaixonada pela tecnológia e seus desafios.<p/>
   <p>:notes: :heart_eyes: Sou apaixonada por música.</p>
   <p>:earth_americas: :heart: Amo viajar e conhecer lugares novos.</p>
+      <div/>
   <br>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLaura1828&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
