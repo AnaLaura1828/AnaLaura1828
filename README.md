@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLaura1828&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center">
-     <h3>Tecnologias que possuo conhecimento</h3>
+     <h3>Tecnológias que tenho conhecimento</h3>
   </div>
 <table width="320px">
     <tbody>
@@ -68,13 +68,6 @@
             <span><strong>Git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>VSCode</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Linux</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
         </tr>
       </tbody>
   </table>
