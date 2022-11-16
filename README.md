@@ -1,6 +1,6 @@
 <div>
-  <h3 align="center">Olá, sou a Ana Laura  &nbsp <img src="https://64.media.tumblr.com/ddb8b1d149dd57d59372aae182de7f30/tumblr_n7pgicamUk1qagc6xo1_500.gifv" width="40px" height="50px">
-   <h3/>
+  <p align="center">Olá, sou a Ana Laura  &nbsp <img src="https://64.media.tumblr.com/ddb8b1d149dd57d59372aae182de7f30/tumblr_n7pgicamUk1qagc6xo1_500.gifv" width="40px" height="50px">
+   <p/>
   <br>
     <div>
   <p>:computer: :green_heart: Estudo desenvolvimento web full stack na Trybe.</p>
