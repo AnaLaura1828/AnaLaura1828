@@ -6,7 +6,7 @@
   <p>:computer: :green_heart: Estudo desenvolvimento web full stack na Trybe.</p>
   <p> :heart: :neckbeard: Estou apaixonada pela tecnológia e seus desafios.<p/>
   <p>:notes: :heart_eyes: Sou apaixonada por música.</p>
-  <p>:earth_americas: :heart: Amo viajar e conhecer lugares novos.</p>
+  <p>:earth_americas: :heart: Amo viajar e conhecer lugares e culturas novas.</p>
       <div/>
   <br>
 
